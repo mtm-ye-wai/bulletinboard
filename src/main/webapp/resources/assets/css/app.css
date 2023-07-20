@@ -1,0 +1,57 @@
+.content {
+	min-height: calc(100vh - 128px);
+}
+
+.login-content {
+	min-height: 100vh;
+}
+
+.footer-title {
+	font-size: 20px;
+	font-weight: normal;
+	padding: 0;
+	margin: 0;
+}
+
+.post-name {
+	cursor: pointer;
+	color: #4879d9;
+}
+
+.whitespace-pre {
+	white-space: pre;
+}
+
+.post-text {
+	color: #ff7f50;
+}
+
+.required:after {
+	content: "*";
+	color: #ff0000;
+}
+
+.error-page {
+	width: 100vw;
+	height: 100vh;
+	margin: 0 auto;
+}
+
+.error-page div {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.error-page div h1 {
+	font-size: 100px;
+}
+
+.error-page div span {
+	color: #ff0000;
+	font-size: 35px;
+}
+
+.error-page div p {
+	display: inline;
+	font-size: 25px;
+}

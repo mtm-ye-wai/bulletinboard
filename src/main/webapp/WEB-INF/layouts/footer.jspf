@@ -1,0 +1,8 @@
+<footer class="bg-white shadow">
+	<div class="container py-3 d-flex justify-content-between align-items-center">
+		<h2 class="footer-title">
+	   		<a class="navbar-brand" href="https://metateammyanmar.com/">MetaTeam Myanmar</a>	
+		</h2>
+	   	<span>Copyright &copy; METATEAM MYANMAR Co., Ltd. All rights reserved.</span>	
+	</div>
+</footer>
